@@ -22,7 +22,6 @@ jobs:
           cd docs
           npm ci
           npm run build
-          touch .nojekyll
           touch dist/.nojekyll
 
       - name: Deploy 🚀
