@@ -22,7 +22,7 @@ jobs:
           cd docs
           npm ci
           npm run build
-          touch dist/.nojekyll
+          touch docs/dist/.nojekyll
 
       - name: Deploy 🚀
         # https://www.viget.com/articles/host-build-and-deploy-next-js-projects-on-github-pages/
