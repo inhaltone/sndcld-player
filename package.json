@@ -1,12 +1,25 @@
 {
-  "name": "@inhaltone/sndcld-player",
+  "name": "@inhaltone/snd-player",
   "version": "1.0.0",
-  "type": "module",
-  "description": "",
-  "main": "/src/main.js",
+  "description": "A Native javascript web component wrapper for Soundcloud Widget",
+  "main": "src/main.js",
+  "publishConfig": {
+    "@inhaltone:registry": "https://npm.pkg.github.com"
+  },
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "test": "echo \\\"Error: no docs specified\\\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inhaltone/sndcld-player.git"
   },
   "author": "@inhaltone",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inhaltone/sndcld-player/issues"
+  },
+  "homepage": "https://github.com/inhaltone/sndcld-player#readme"
 }
