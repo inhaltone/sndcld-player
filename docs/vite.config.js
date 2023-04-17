@@ -1,4 +1,4 @@
 import {defineConfig} from "vite";
 export default defineConfig({
-    base: '/sndcld-player'
+    base: '/sndcld-player/docs'
 })
