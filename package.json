@@ -1,6 +1,7 @@
 {
   "name": "@inhaltone/snd-player",
   "version": "1.0.0",
+  "type": "module",
   "description": "A Native javascript web component wrapper for Soundcloud Widget",
   "main": "src/main.js",
   "publishConfig": {
@@ -10,7 +11,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/test.js"
   },
   "repository": {
     "type": "git",
