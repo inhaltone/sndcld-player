@@ -1,12 +1,9 @@
 {
   "name": "@inhaltone/snd-player",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "description": "A Native javascript web component wrapper for Soundcloud Widget",
   "main": "src/main.js",
-  "publishConfig": {
-    "@inhaltone:registry": "https://npm.pkg.github.com"
-  },
   "directories": {
     "doc": "docs"
   },
