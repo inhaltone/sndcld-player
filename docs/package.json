@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "@inhaltone/snd-player": "^1.0.8"
   }
 }
