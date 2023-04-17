@@ -238,4 +238,4 @@ var At=Object.defineProperty;var kt=(l,n,t)=>n in l?At(l,n,{enumerable:!0,config
                 background: white;
             }
         }  
-           `,e},b(E,U),b(E,Y),b(E,z),b(E,B),b(E,j),b(E,F),b(E,V),A(E,"purple","#747bff"),A(E,"violet","#922cf9"),A(E,"dark","#1e1c20");window.onload=()=>{E.define("tony-montana");const l=new E({trackId:1408738531});document.querySelector("#app").appendChild(l)};
+           `,e},b(E,U),b(E,Y),b(E,z),b(E,B),b(E,j),b(E,F),b(E,V),A(E,"purple","#747bff"),A(E,"violet","#922cf9"),A(E,"dark","#1e1c20");window.onload=()=>{E.define("snd-player");const l=new E({trackId:1408738531});document.querySelector("#app").appendChild(l)};
