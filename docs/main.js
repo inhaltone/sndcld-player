@@ -1,5 +1,5 @@
 import './style.css'
-import {SndPlayer} from "@inhaltone/sndcld-player";
+import {SndPlayer} from "../src/main.js";
 
 window.onload = () => {
     SndPlayer.define('tony-montana');
